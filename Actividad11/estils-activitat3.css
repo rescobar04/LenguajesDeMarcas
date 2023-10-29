@@ -1,0 +1,30 @@
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #444;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.noticia{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+img{
+    width: 100px;
+    height: auto;
+}
+h3{
+    font-weight: bold;
+    color: #0000ff;
+}
+a{
+    color: #008000;
+    text-decoration: none;
+}
+a:hover{
+    color: #800080;
+    text-decoration: underline;
+}
