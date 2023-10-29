@@ -1,0 +1,54 @@
+*{
+    background-color: #fac384;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    float: top;
+    text-align: center;
+}
+.menu{
+    float: left;
+    width: 200px;
+    padding: 20px;
+    background-color: #3c8bf3;
+}
+.menu *{
+    background-color: #3c8bf3;
+}
+.menu ul{
+    list-style-type: none;
+    padding: 20px;
+}
+.menu li{
+    margin: 10px 0;
+}
+.contenido{
+    background-color: #f88417;
+    padding: 20px;
+    margin-left: 240px;
+    overflow: hidden;
+}
+.contenido *{
+    background-color: #f88417;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+    background-color: #880909;
+    clear: both;
+    padding: 10px;
+}
+.gorra{
+    padding: 20px;
+    border: 1px solid #ccc;
+    float: left;
+    width: auto;
+}
+.gorra img{
+    width: 200px;
+    height: 200px;
+    max-width: 100%;
+}
+main h1{
+    text-align: center;
+}
