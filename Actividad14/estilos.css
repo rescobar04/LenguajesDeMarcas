@@ -24,6 +24,11 @@ h1{
     align-self: center;
     padding: 10px;
     color: #fff;
+    transition: color 1s, background-color 1s;
+}
+.links a:hover{
+    color: chartreuse;
+    background-color: blueviolet;
 }
 input{
     display: flex;
